@@ -1,5 +1,4 @@
-Here you can say lots of fun things about your site.
+AI is progressing. These are my favorite news and articles. 
 
-Maybe say a some things about yourself.
+![](http://rpg.ifi.uzh.ch/img/projects/learning/deepLearning.gif)
 
-Or maybe what you plan to blog about.
