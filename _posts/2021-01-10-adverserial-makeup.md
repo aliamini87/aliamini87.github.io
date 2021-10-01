@@ -1,4 +1,4 @@
-## Adverserial Makup
+## Adverserial Makeup
 
 
 Drop off your adversarial [hats](https://arxiv.org/abs/1908.08705?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8QsJWqT2o_J1ShIjCrSsYkFvMAnCBhaA2EXAdYbnlE13tMsuEANbyDdvf7vHFb3GJaHUSl), [eyeglasses](https://users.ece.cmu.edu/~lbauer/papers/2016/ccs2016-face-recognition.pdf?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8QsJWqT2o_J1ShIjCrSsYkFvMAnCBhaA2EXAdYbnlE13tMsuEANbyDdvf7vHFb3GJaHUSl), and [tee shirts](https://arxiv.org/abs/1910.11099?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8QsJWqT2o_J1ShIjCrSsYkFvMAnCBhaA2EXAdYbnlE13tMsuEANbyDdvf7vHFb3GJaHUSl) to the second-hand store. The latest fashion statement is adversarial makeup.  
