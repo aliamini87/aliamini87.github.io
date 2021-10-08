@@ -1,4 +1,9 @@
+#  Autonomous Racing Drones Dodge Through Forests at 40 kph
+
+Training in simulation gives these drones impressive flying skills 
+
 ![](https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNzYyMDcwNi9vcmlnaW4uZ2lmIiwiZXhwaXJlc19hdCI6MTY3NzUzOTQxM30.ORBEB8H20xrhR9jajGDn0n0VpAF_Ckft9QwLJI83YGA/image.gif?width=1280&height=720)
+
 
 It seems inevitable that sooner or later, the performance of autonomous drones will [surpass the performance of even the best human pilots](https://spectrum.ieee.org/ai-powered-drone-extreme-acrobatics). Usually things in robotics that seem inevitable happen later as opposed to sooner, but drone technology seems to be the exception to this. We've seen an astonishing amount of progress over the past few years, even to the extent of [sophisticated autonomy](https://spectrum.ieee.org/skydio-2-review-this-is-the-drone-you-want-to-fly) making it into the hands of consumers at an affordable price.
 
