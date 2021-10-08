@@ -21,7 +21,7 @@ The convolutional network that performs this sensor-to-trajectory mapping was tr
 
 The other big part of this is making that sim-to-real transition, which can be problematic because simulation doesn't always do a great job of simulating everything that happens in the world that can screw with a robot. But this method turns out to be very robust against motion blur, sensor noise, and other perception artifacts. The drone has successfully navigated through real world environments including snowy terrains, derailed trains, ruins, thick vegetation, and collapsed buildings.
 
-***"While humans require years to train, the AI, leveraging high-performance simulators, can reach comparable navigation abilities much faster, basically overnight." -Antonio Loquercio, UZH***
+>***"While humans require years to train, the AI, leveraging high-performance simulators, can reach comparable navigation abilities much faster, basically overnight." -Antonio Loquercio, UZH***
 
 This is not to say that the performance here is flawless—the system still has trouble with very low illumination conditions (because the cameras simply can't see), as well as similar vision challenges like dust, fog, glare, and transparent or reflective surfaces. The training also didn't include dynamic obstacles, although the researchers tell us that moving things shouldn't be a problem even now as long as their speed relative to the drone is negligible. Many of these problems could potentially be mitigated by using [event cameras](https://spectrum.ieee.org/event-camera-helps-drone-dodge-thrown-objects) rather than traditional cameras, since faster sensors, especially ones tuned to detect motion, would be ideal for high speed drones.
 
