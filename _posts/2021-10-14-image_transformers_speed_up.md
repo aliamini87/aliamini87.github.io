@@ -1,4 +1,4 @@
-# Image Transformer Speed-Up Sped Up!
+# Image Transformer Speed-Up Speed Up!
 
 ![NESTED](https://cdn2.hubspot.net/hub/5871640/hubfs/NESTED.gif?upscale=true&width=1200&upscale=true&name=NESTED.gif)
 
