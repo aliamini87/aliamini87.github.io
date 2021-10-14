@@ -1,5 +1,5 @@
 # Transition from academia to a corporate role (Andrew Ng opinion)
-/*
+
 _I’ve seen many friends transition from an academic or research role to a corporate role. The most successful ones adjusted to corporate work by shifting their mindset in a few crucial ways._
 
 _The worlds of academia and industry are governed by different values. The former prizes scientific innovation and intellectual freedom, and the latter prizes building a successful business that delivers impact and profit. If you’re thinking of taking the leap, here are some tips that might ease the way._
