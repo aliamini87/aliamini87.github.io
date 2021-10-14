@@ -1,8 +1,6 @@
 # Google Search Goes Multimodal
 
 
-<img src="https://im3.ezgif.com/tmp/ezgif-3-fdce521669dc.gif" width="900" height="507">
-
 
 
 Google will upgrade its search engine with a new model that tracks the relationships between words, images, and, in time, videos — the first fruit of its latest research into multimodal machine learning and multilingual language modeling.  
