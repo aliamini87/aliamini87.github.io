@@ -1,4 +1,4 @@
-# Leopard Imaging Hawk 3D Depth Camera: 
+# Leopard Imaging Hawk 3D Depth Camera
 **An stereo camera with synchronized IMU integration**
 
 ![](https://www.leopardimaging.com/wp-content/uploads/LI-and-nvidia-01-1-1536x822.png)
