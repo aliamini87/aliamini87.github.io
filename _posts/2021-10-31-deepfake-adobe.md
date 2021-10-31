@@ -24,3 +24,6 @@ Regardless of your intent, if you want to create this sort of deepfake, you have
 It’s impossible to say for sure, but I think it’s definitely a possibility. After all, Adobe survived the advent of “Photoshopped” becoming shorthand for digitally edited images in general, and often with negative connotations. And for better or worse, deepfakes are slowly losing their own negative associations as they’re adopted in more mainstream projects. Project Morpheus is a deepfake tool with some serious guardrails (you can only make prescribed changes and there’s no face-swapping, for example), but it shows that Adobe is determined to explore this territory, presumably while gauging reactions from the industry and public.
 
 It’s fitting that as “deepfake” has replaced “Photoshopped” as the go-to accusation of fakery in the public sphere, Adobe is perhaps feeling left out. Project Morpheus suggests it may well catch up soon.
+
+---
+Source: [The Verge](https://www.theverge.com/2021/10/27/22748508/adobe-deepfake-tool-max-project-morpheus)
