@@ -18,7 +18,8 @@ github_username: "aliamini87"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: minima
+#theme: minima
+remote_theme: daattali/beautiful-jekyll
 
 rss: rss
 
