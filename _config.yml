@@ -19,7 +19,7 @@ github_username: "aliamini87"
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 #theme: minima
-remote_theme: wowthemesnet/affiliates-jekyll-theme
+
 
 rss: rss
 
@@ -31,6 +31,8 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-remote-theme
+  
+remote_theme: wowthemesnet/affiliates-jekyll-theme
 
 titles_from_headings:
   strip_title: true
